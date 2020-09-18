@@ -1,0 +1,1 @@
+This tool scrap Instagram and return a hashtag strategy, given some niche words.
